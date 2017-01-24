@@ -2,7 +2,7 @@
 password-manager in one html file
 
 
-v1.1 (update: 2017-01-24)
+## v1.1 (update: 2017-01-24)
 
 新增了 Advanced Mode, 进入此模式后，可以更改主密码、顶置项目（或取消顶置）、删除项目。
 
@@ -11,8 +11,7 @@ Advanced Mode 采用了类似 TiddlyWiki 的方式，自动生成新文件，用
 一切修改都必须保存后才有效，点击 Save 时，会下载一个新文件，之后请使用这个新文件，删除旧文件。
 
 
-
-v1.0 说明：
+## v1.0 说明：
 
 这是一个密码管理软件，只有一个 HTML 文件，无任何外部依赖或链接。支持 Firefox 和 Chrome，不支持
 IE 和 Edge，没有测试 Safari。
