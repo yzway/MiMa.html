@@ -2,6 +2,10 @@
 password-manager in one html file
 
 
+## v1.1 bugfix (update: 2017-02-19)
+
+在 Advanced Mode, 删除功能有 **严重bug** 导致不想删除的项目也会被删除。已修复，请使用最新版本。
+
 ## v1.1 (update: 2017-01-24)
 
 新增了 Advanced Mode, 进入此模式后，可以更改主密码、顶置项目（或取消顶置）、删除项目。
